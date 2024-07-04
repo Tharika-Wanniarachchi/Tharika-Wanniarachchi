@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharika Wanniarachchi
 - 🔭 I’m currently Looking for an intern 
-- 👀 Check out my Portfolio
+- 👀 Check out my [Portfolio](https://tharika-wanniarachchi.github.io/My_Portfolio_Website/)
 - 🌱 I’m currently learning Full stack Web Development
 - 📫 How to reach me tharikawanniarchchi0@gmail.com
 
